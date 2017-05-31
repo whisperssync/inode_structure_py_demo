@@ -1,5 +1,5 @@
 # inode_structure_py_demo
-A simple demonstration of inode pointer structure 
+A simple demo of the inode feature of Linux file system  
 
 Includes three python files:
 ###tinyDOS.py 
